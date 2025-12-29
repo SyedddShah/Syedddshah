@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="800" />
+</p>
+
 # Shafer Shah
 # 💫 About Me:
 I’m a full-stack developer who builds clean, scalable CRUD systems with a strong focus on professional UI and UX.<br>I like working on structured applications where the frontend feels clear and intuitive, and the backend is reliable, organized, and easy to maintain. I care more about usability and clean logic than adding complexity just for show.<br><br>I enjoy taking rough ideas and shaping them into well-designed, functional products using modern web technologies. I pay close attention to architecture, performance, and visual consistency. From database design and API flow to pixel-level UI polish, my goal is to build systems that feel solid, intuitive, and ready for real-world use.

@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="banner.gif" alt="banner" />
-</p>
+
+  <img src="https://sansroot.github.io/My-Rices/red.gif"/>
+
 
 # Shafer Shah
 # 💫 About Me:

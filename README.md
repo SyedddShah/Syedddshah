@@ -33,18 +33,18 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1400&
 
 <div align="center">
 
-<img alt="stack icons"
+<img alt=" stack icons."
 src="https://skillicons.dev/icons?i=figma,react,nextjs,ts,tailwind,framer,nodejs,express,postgres,mongodb,prisma,git,github,vercel&theme=dark&perline=7" />
 
 <br/>
 
-<img alt="animated HUD skill bars"
+<img alt="animated HUD skill bars."
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=900&color=CBD5E1&center=true&vCenter=true&multiline=true&width=980&height=120&lines=%5BHUD%5D%20UI%2FUX%20Systems%20%20%20%20%20%20%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1;%5BHUD%5D%20Front-end%20Motion%20%20%20%20%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1;%5BHUD%5D%20CRUD%20%2B%20API%20Design%20%20%20%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1;%5BHUD%5D%20DB%20Modeling%20%20%20%20%20%20%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1" />
 
 </div>
 
 <div align="center">
-<img alt="animated divider"
+<img alt="animated divider."
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1400&pause=1200&color=3B82F6&center=true&vCenter=true&width=980&height=26&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" />
 </div>
 
@@ -55,7 +55,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1400&
 - ▸ **Full-stack delivery** — UI + API + DB, shipped as one system
 
 <div align="center">
-<img alt="animated divider"
+<img alt="animated divider."
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1400&pause=1200&color=3B82F6&center=true&vCenter=true&width=980&height=26&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" />
 </div>
 
@@ -64,7 +64,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1400&
 <div align="center">
 
 <!-- subtle “alive” framing: animated divider above + below the cards -->
-<img alt="pulse frame top"
+<img alt="pulse frame top."
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1200&pause=1200&color=A78BFA&center=true&vCenter=true&width=980&height=22&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" />
 
 <br/>

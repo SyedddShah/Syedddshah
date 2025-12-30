@@ -1,104 +1,188 @@
-
-
-
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ HERO BANNER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-<img width="100%" alt="Cinematic hero banner"
-src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:0b0b10,46:24104a,78:0d1b2a,100:0b0b10&text=Ali%20Haider&fontColor=e5e7eb&fontSize=66&fontAlignY=36&desc=Syed%20Shah%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=62&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:1a1a2e,50:16213e,75:1a1a2e,100:0d0d0d&height=220&section=header&text=&fontSize=0&animation=fadeIn" />
 
-<img alt="slow system ticker"
-src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=980&height=44&lines=UI%2FUX%20SYSTEMS%20%E2%80%A2%20CRUD%20APPLICATIONS%20%E2%80%A2%20MODERN%20WEB%20APPS%20%E2%80%A2%20PORTFOLIOS" />
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ NAME BADGE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<a href="https://github.com/syedshah">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=42&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=SYED+SHAH+%7C+ALI+HAIDER" alt="Name" />
+</a>
 
 <br/>
 
-<img alt="Syed Shah | Ali Haider badge"
-src="https://img.shields.io/badge/Syed%20Shah%20%7C%20Ali%20Haider-0b0b10?style=for-the-badge&labelColor=141420&color=24104a" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=2800&pause=1200&color=6366F1&center=true&vCenter=true&width=600&height=30&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+UI%2FUX+DESIGNER+%E2%80%A2+FULL-STACK+DEVELOPER+%E2%96%91%E2%96%92%E2%96%93%E2%96%88" alt="Roles" />
+
+<br/><br/>
+
+<!-- ROLE BADGES -->
+<img src="https://img.shields.io/badge/UI%2FUX-DESIGNER-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=0d0d0d&logo=figma&logoColor=8B5CF6" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=0d0d0d&logo=code&logoColor=6366F1" />
+
+<br/><br/>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" />
 
 </div>
-
-<div align="center">
-
-**UI/UX Designer · Full-Stack Developer**  
-<i>Controlled interfaces. Clean systems. Zero noise.</i>
-
-</div>
-
-<div align="center">
-<img alt="animated divider"
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1400&pause=1200&color=3B82F6&center=true&vCenter=true&width=980&height=26&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" />
-</div>
-
-## Stack
-
-<div align="center">
-
-<img alt=" stack icons."
-src="https://skillicons.dev/icons?i=figma,react,nextjs,ts,tailwind,framer,nodejs,express,postgres,mongodb,prisma,git,github,vercel&theme=dark&perline=7" />
 
 <br/>
 
-<img alt="animated HUD skill bars."
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=900&color=CBD5E1&center=true&vCenter=true&multiline=true&width=980&height=120&lines=%5BHUD%5D%20UI%2FUX%20Systems%20%20%20%20%20%20%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1;%5BHUD%5D%20Front-end%20Motion%20%20%20%20%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1;%5BHUD%5D%20CRUD%20%2B%20API%20Design%20%20%20%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1;%5BHUD%5D%20DB%20Modeling%20%20%20%20%20%20%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1" />
-
-</div>
-
-<div align="center">
-<img alt="animated divider."
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1400&pause=1200&color=3B82F6&center=true&vCenter=true&width=980&height=26&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" />
-</div>
-
-## Selected focus
-
-- ▸ **UI/UX systems** — tokens, components, layout discipline  
-- ▸ **CRUD-based applications** — clean flows, reliable state, audit-friendly patterns  
-- ▸ **Full-stack delivery** — UI + API + DB, shipped as one system
-
-<div align="center">
-<img alt="animated divider."
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1400&pause=1200&color=3B82F6&center=true&vCenter=true&width=980&height=26&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" />
-</div>
-
-## Stats
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ FOCUS AREAS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-<!-- subtle “alive” framing: animated divider above + below the cards -->
-<img alt="pulse frame top."
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1200&pause=1200&color=A78BFA&center=true&vCenter=true&width=980&height=22&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=1&pause=999999&color=4C1D95&center=true&vCenter=true&width=200&height=20&lines=%E2%94%8C%E2%94%80%E2%94%80+OPERATIONAL+FOCUS+%E2%94%80%E2%94%80%E2%94%90" alt="Focus" />
 
-<br/>
+<br/><br/>
 
-<img height="165" alt="GitHub stats"
-src="https://github-readme-stats.vercel.app/api?username=Syedddshah&show_icons=true&hide_title=true&bg_color=0b0b10&border_color=24104a&icon_color=3B82F6&text_color=CBD5E1&title_color=A78BFA&ring_color=A78BFA" />
-
-<img height="165" alt="GitHub streak"
-src="https://streak-stats.demolab.com?user=Syedddshah&theme=github-dark-blue&hide_border=false&border_radius=10&background=0B0B10&border=24104A&ring=A78BFA&fire=3B82F6&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=7C8097" />
-
-<br/>
-
-<img height="165" alt="Top languages"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedddshah&layout=compact&bg_color=0b0b10&border_color=24104a&title_color=A78BFA&text_color=CBD5E1" />
-
-<br/>
-
-<img width="94%" alt="Activity graph"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Syedddshah&bg_color=0b0b10&color=CBD5E1&line=A78BFA&point=3B82F6&area=true&hide_border=true" />
-
-<br/>
-
-<img alt="pulse frame bottom"
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1200&pause=1200&color=A78BFA&center=true&vCenter=true&width=980&height=22&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" />
+<table>
+<tr>
+<td align="center" width="200"><sub><sup>Design Architecture</sup></sub></td>
+<td align="center" width="200"><sub><sup>Data Operations</sup></sub></td>
+<td align="center" width="200"><sub><sup>Full-Stack Solutions</sup></sub></td>
+<td align="center" width="200"><sub><sup>Personal Branding</sup></sub></td>
+</tr>
+</table>
 
 </div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ TECH ARSENAL ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-<img alt="closing line (script, restrained)"
-src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&italic=true&weight=600&size=22&duration=2200&pause=2200&color=E5E7EB&center=true&vCenter=true&width=980&height=52&lines=Restraint.%20Precision.%20Release." />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=1&pause=999999&color=4C1D95&center=true&vCenter=true&width=150&height=20&lines=%E2%96%B2+TECH+ARSENAL+%E2%96%B2" alt="Tech Arsenal" />
+
+<br/><br/>
+
+<!-- FRONTEND -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=10&duration=1&pause=999999&color=6366F1&center=true&vCenter=true&width=100&height=15&lines=%5B+FRONTEND+%5D" alt="Frontend" />
+<br/><br/>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,tailwind&theme=dark" alt="Frontend Stack" />
+</a>
+
+<br/><br/>
+
+<!-- BACKEND -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=10&duration=1&pause=999999&color=6366F1&center=true&vCenter=true&width=100&height=15&lines=%5B+BACKEND+%5D" alt="Backend" />
+<br/><br/>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb&theme=dark" alt="Backend Stack" />
+</a>
+
+<br/><br/>
+
+<!-- DESIGN -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=10&duration=1&pause=999999&color=6366F1&center=true&vCenter=true&width=100&height=15&lines=%5B+DESIGN+%5D" alt="Design" />
+<br/><br/>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,blender&theme=dark" alt="Design Stack" />
+</a>
+
+<br/><br/>
+
+<!-- DEVOPS & TOOLS -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=10&duration=1&pause=999999&color=6366F1&center=true&vCenter=true&width=100&height=15&lines=%5B+SYSTEMS+%5D" alt="Systems" />
+<br/><br/>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=docker,git,vercel,aws,linux&theme=dark" alt="Systems Stack" />
+</a>
 
 </div>
 
-<img width="100%" alt="footer fade"
-src="https://capsule-render.vercel.app/api?type=rect&height=70&section=footer&color=0:0b0b10,55:24104a,100:0b0b10&animation=fadeIn" />
-```
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=1&pause=999999&color=4C1D95&center=true&vCenter=true&width=150&height=20&lines=%E2%97%86+SYSTEM+METRICS+%E2%97%86" alt="Metrics" />
+
+<br/><br/>
+
+<a href="https://github.com/syedshah">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=syedshah&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=8B5CF6&text_color=a0a0a0&icon_color=6366F1&ring_color=4C1D95" alt="GitHub Stats" />
+</a>
+&nbsp;
+<a href="https://github.com/syedshah">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=syedshah&theme=midnight-purple&hide_border=true&background=0D0D0D&stroke=1a1a2e&ring=8B5CF6&fire=6366F1&currStreakNum=FFFFFF&sideNums=a0a0a0&currStreakLabel=8B5CF6&sideLabels=6366F1&dates=4a4a4a" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/syedshah">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedshah&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=8B5CF6&text_color=a0a0a0" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/syedshah">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=syedshah&bg_color=0d0d0d&color=8B5CF6&line=6366F1&point=a855f7&area=true&area_color=4C1D95&hide_border=true&custom_title=CONTRIBUTION%20FREQUENCY" alt="Activity Graph" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ TROPHY CASE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+<a href="https://github.com/syedshah">
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=syedshah&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="Trophies" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SOCIAL LINKS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=1&pause=999999&color=4C1D95&center=true&vCenter=true&width=150&height=20&lines=%E2%9C%A6+UPLINK+CHANNELS+%E2%9C%A6" alt="Section" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/alihaider">
+<img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=6366F1" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://twitter.com/alihaider">
+<img src="https://img.shields.io/badge/Twitter-0d0d0d?style=for-the-badge&logo=x&logoColor=8B5CF6" alt="Twitter" />
+</a>
+&nbsp;
+<a href="mailto:contact@alihaider.dev">
+<img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" />
+</a>
+&nbsp;
+<a href="https://alihaider.dev">
+<img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=6366F1" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://dribbble.com/alihaider">
+<img src="https://img.shields.io/badge/Dribbble-0d0d0d?style=for-the-badge&logo=dribbble&logoColor=8B5CF6" alt="Dribbble" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ PROFILE VIEWS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=syedshah&style=for-the-badge&color=4C1D95&label=PROFILE+SCANS" alt="Profile Views" />
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ FOOTER WAVE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:1a1a2e,50:16213e,75:1a1a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn" />

@@ -157,7 +157,7 @@
 <img src="https://img.shields.io/badge/Twitter-0d0d0d?style=for-the-badge&logo=x&logoColor=8B5CF6" alt="Twitter" />
 </a>
 &nbsp;
-<a href="mailto:busheerabgeum097@gmail.com">
+<a href="mailto:busheerabegum097@gmail.com">
 <img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" />
 </a>
 &nbsp;
